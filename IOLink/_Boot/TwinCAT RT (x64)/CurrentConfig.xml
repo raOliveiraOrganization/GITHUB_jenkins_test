@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<TcBootProject CreateTime="2022-09-12T22:35:37">
+<TcBootProject CreateTime="2022-09-18T14:30:12">
 	<System>
 		<LockedMemSize>33554432</LockedMemSize>
 		<AffinityMask>#x800</AffinityMask>
@@ -127,7 +127,7 @@
 	<ProjectInfo>
 		<ProjectName>IOLink</ProjectName>
 		<ProjectGuid>{E7BFCC23-9BDE-4371-9FF4-C5E9B8B9028C}</ProjectGuid>
-		<ConfigurationFile>D:\TwinCat TESTS PROJECTS\ExampleProjects\AdvancedExampleProject\IOLink\IOLink.tsproj</ConfigurationFile>
+		<ConfigurationFile>D:\SCM Environment\TwinCat TESTS PROJECTS\GITHUB_jenkins_test_AdvancedExampleProject\IOLink\IOLink.tsproj</ConfigurationFile>
 		<DataTypes/>
 		<PlcProjects/>
 		<Tasks/>
