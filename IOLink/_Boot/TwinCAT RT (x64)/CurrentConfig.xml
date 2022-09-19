@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<TcBootProject CreateTime="2022-09-18T14:30:12">
+<TcBootProject CreateTime="2022-09-19T22:10:31">
 	<System>
 		<LockedMemSize>33554432</LockedMemSize>
 		<AffinityMask>#x800</AffinityMask>
@@ -64,7 +64,7 @@
 			<port>200</port>
 			<iGrp>1</iGrp>
 			<iOffs>37</iOffs>
-			<data>0b00000050000000102700000000000000000000020000000000000000000000</data>
+			<data>0b00000050000000102700000000000000000000010000000000000000000000</data>
 			<message>Ticker started</message>
 		</InitCmd>
 		<InitCmd>
